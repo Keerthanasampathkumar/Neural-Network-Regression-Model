@@ -85,20 +85,20 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ```
 ## Dataset Information
-
-![image](https://github.com/user-attachments/assets/bfcfb07a-861a-420c-9c55-0971dc177fc4)
+![Screenshot 2025-02-27 084550](https://github.com/user-attachments/assets/57977aa3-ad27-4bf4-afc5-fc89d3f1ad1e)
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
+![Screenshot 2025-02-27 084633](https://github.com/user-attachments/assets/dbb0e281-d351-492d-b5d4-0e517a4d57cb)
 
-![image](https://github.com/user-attachments/assets/929c5740-2abb-42b4-82bf-b9fe94ab59f4)
 
 
 ### New Sample Data Prediction
+![Screenshot 2025-02-27 084707](https://github.com/user-attachments/assets/da08c827-084b-4b64-85be-ea4fb60af556)
 
-![image](https://github.com/user-attachments/assets/b19f39fb-bcda-4d57-9092-f4e7ee34743d)
+![Screenshot 2025-02-27 084725](https://github.com/user-attachments/assets/a75e6136-4c3b-43df-bd8c-ca92840789c0)
 
 
 ## RESULT
